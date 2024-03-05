@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <!--Login-->
+
+    <Username>standard_user</Username>
+    <Password>secret_sauce</Password>
+    <URL>https://www.saucedemo.com/</URL>
+
+    <!--Your Information Page-->
+
+    <FirstName>Niro</FirstName>
+    <LastName>Talmor</LastName>
+    <PostalCode>69123</PostalCode>
+
+    <!--Web-->
+    <PlatformName>web</PlatformName>
+    <BrowserName>chrome</BrowserName>
+
+
+    <!--DDTFiles-->
+    <DDTFile>./DDTFiles/users.csv</DDTFile>
+
+
+</Enviroment>
