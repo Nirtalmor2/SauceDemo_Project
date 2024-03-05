@@ -8,4 +8,4 @@ The test must be run through the XML file: TestNGSuite.xml
 4. Verification that the total amount is correct
 
 The program is supported by Allure Reports
-In case of failure, the system captures the screen
+In case of failure, the system captures screenshot
